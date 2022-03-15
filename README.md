@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ssakib4040
-- 👀 I’m interested in Coding
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning Wev Development
 - 💞️ I’m looking to collaborate on Projects
 - 📫 My email address ssakib4040@gmail.com
