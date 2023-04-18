@@ -19,5 +19,5 @@ I'm Sadman Sakib, a full-stack web developer with a passion for creating dynamic
 ### 📫 Contact Me
 
 - Email: ssakib4040@gmail.com
-- LinkedIn: https://www.linkedin.com/in/ssakib4040
-- Website: [Your Website]
+- LinkedIn: https://www.linkedin.com/in/ssakib4040/
+- Website: https://nextjs-portfolio-ssakib4040.vercel.app/
