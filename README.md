@@ -6,8 +6,8 @@ As a lifelong learner, I'm always striving to keep up with the latest web develo
 
 ### 👨‍💻 Tech Stack
 
-- Front-end: HTML, CSS, JavaScript, Bootstrap, TailwindCSS, React JS, Next JS.
-- Back-end: Node.js, Express.js, GraphQL, Python(Basic), Azure(Basic).
+- Front-end: HTML, CSS, JavaScript, TypeScript, Bootstrap, TailwindCSS, React JS, Next JS.
+- Back-end: Node.js, Express.js, GraphQL, Python(Basic), Azure.
 - Databases: MongoDB, MySQL, Firebase.
 
 
