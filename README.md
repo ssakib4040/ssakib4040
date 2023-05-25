@@ -9,7 +9,7 @@ As a lifelong learner, I'm always striving to keep up with the latest web develo
 - **Front end**: HTML, CSS, JavaScript, TypeScript, Bootstrap, TailwindCSS, React JS, Next JS.
 - **Back end**: Node.js, Express.js, GraphQL, Python(Basic), Azure.
 - **Tools & Technologies**: Git (VCS), Github, Visual Studio Code, Chrome Dev Tools, NPM, Yarn, RESTful APIs, JSON, JWT, Parcel JS, Cypress, Mocha, Postman, Netlify, Vercel.
-- **Databases**: MongoDB, MySQL, Firebase.
+- **Databases**: MongoDB, MySQL(Basic), Firebase.
 
 
 ### 📫 Contact Me
