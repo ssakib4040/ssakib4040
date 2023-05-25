@@ -6,9 +6,10 @@ As a lifelong learner, I'm always striving to keep up with the latest web develo
 
 ### 👨‍💻 Tech Stack
 
-- **Front end**: HTML, CSS, JavaScript, TypeScript, Bootstrap, TailwindCSS, React JS, Next JS.
-- **Back end**: Node.js, Express.js, GraphQL, Python(Basic), Azure.
+- **Front end**: HTML, CSS, JavaScript, TypeScript, Bootstrap, TailwindCSS, React JS, Redux, MobX, Next JS.
 - **Tools & Technologies**: Git (VCS), Github, Visual Studio Code, Chrome Dev Tools, NPM, Yarn, RESTful APIs, JSON, JWT, Parcel JS, Cypress, Mocha, Postman, Netlify, Vercel.
+- **Back end**: Node.js, Express.js, GraphQL, Python(Basic), Azure.
+
 - **Databases**: MongoDB, MySQL(Basic), Firebase.
 
 
