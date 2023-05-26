@@ -10,7 +10,7 @@ As a lifelong learner, I'm always striving to keep up with the latest web develo
 - **Tools & Technologies**: Git (VCS), Github, Visual Studio Code, Chrome Dev Tools, NPM, Yarn, RESTful APIs, JSON, JWT, Parcel JS, Cypress, Mocha, Postman, Netlify, Vercel.
 - **Back end**: Node.js, Express.js, GraphQL, Python(Basic), Azure.
 
-- **Databases**: MongoDB, MySQL(Basic), Firebase.
+- **Databases**: MongoDB, Mongoose(ODM), MySQL(Basic), Firebase.
 
 
 ### 📫 Contact Me
