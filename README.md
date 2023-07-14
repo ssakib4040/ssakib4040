@@ -2,7 +2,7 @@
 
 I'm Sadman Sakib, a web developer with a passion for crafting beautiful, user-friendly websites. I specialize in front-end technologies such as HTML, CSS, and JavaScript, as well as popular frameworks like Bootstrap and Tailwind for creating responsive, engaging user interfaces. In addition, I'm proficient in back-end development with Node.js, Express.js, and a range of databases.
 
-As a lifelong learner, I'm always striving to keep up with the latest web development trends and integrating them into my work to create cutting-edge websites that leave a lasting impression. When I'm not coding, you can find me exploring new hobbies and expanding my skillset.
+As a lifelong learner, I'm always striving to keep up with the latest web development trends and integrate them into my work to create cutting-edge websites that leave a lasting impression. When I'm not coding, you can find me exploring new hobbies and expanding my skill set.
 
 ### 👨‍💻 Tech Stack
 
