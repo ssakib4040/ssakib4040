@@ -1,4 +1,4 @@
-## 👋 Hello, World! 
+## 👋 Hello, World!
 
 I'm Sadman Sakib, a web developer with a passion for crafting beautiful, user-friendly websites. I specialize in front-end technologies such as HTML, CSS, and JavaScript, as well as popular frameworks like Bootstrap and Tailwind for creating responsive, engaging user interfaces. In addition, I'm proficient in back-end development with Node.js, Express.js, and a range of databases.
 
@@ -12,10 +12,15 @@ As a lifelong learner, I'm always striving to keep up with the latest web develo
 
 - **Databases**: MongoDB, Mongoose(ODM), MySQL(Basic), Firebase.
 
+<!-- ### 🔨 Things I've Built
 
-### 📫 Contact Me
+- [Project Name 1](https://example.com) - Brief description
+- [Project Name 2](https://example.com) - Brief description
+- [Project Name 3](https://example.com) - Brief description -->
+
+### �📫 Contact Me
 
 - Email: ssakib4040@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ssakib4040/
 - Website: https://nextjs-portfolio-ssakib4040.vercel.app/
-- CV (Curriculum Vitae): [https://drive.google.com/file/d/1ZU5D0XJFrVzwk__eDZZXfg8w0bFxyU5T](https://drive.google.com/file/d/1BSCtHCzQsz7q8NiYfHY2qKOz77nTyyvM)
+- CV (Curriculum Vitae): [https://drive.google.com/file/d/1ZU5D0XJFrVzwk\_\_eDZZXfg8w0bFxyU5T](https://drive.google.com/file/d/1BSCtHCzQsz7q8NiYfHY2qKOz77nTyyvM)
