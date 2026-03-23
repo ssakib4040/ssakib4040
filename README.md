@@ -21,6 +21,6 @@ As a lifelong learner, I'm always striving to keep up with the latest web develo
 ### �📫 Contact Me
 
 - Email: ssakib4040@gmail.com
+- Website: [https://ssakib4040.vercel.app/](https://ssakib4040.vercel.app/)
 - LinkedIn: https://www.linkedin.com/in/ssakib4040/
-- Website: https://nextjs-portfolio-ssakib4040.vercel.app/
 - CV (Curriculum Vitae): [https://drive.google.com/file/d/1ZU5D0XJFrVzwk\_\_eDZZXfg8w0bFxyU5T](https://drive.google.com/file/d/1BSCtHCzQsz7q8NiYfHY2qKOz77nTyyvM)
