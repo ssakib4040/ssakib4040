@@ -23,4 +23,4 @@ As a lifelong learner, I'm always striving to keep up with the latest web develo
 - Email: ssakib4040@gmail.com
 - Website: [https://ssakib4040.vercel.app/](https://ssakib4040.vercel.app/)
 - LinkedIn: https://www.linkedin.com/in/ssakib4040/
-- CV (Curriculum Vitae): [https://drive.google.com/file/d/1ZU5D0XJFrVzwk\_\_eDZZXfg8w0bFxyU5T](https://drive.google.com/file/d/1BSCtHCzQsz7q8NiYfHY2qKOz77nTyyvM)
+- CV (Curriculum Vitae): [https://drive.google.com/file/d/1KJ0W2y--tv3nVN-FniCbVxXewbwKthnw/view?usp=drive_link](https://drive.google.com/file/d/1KJ0W2y--tv3nVN-FniCbVxXewbwKthnw/view?usp=drive_link)
