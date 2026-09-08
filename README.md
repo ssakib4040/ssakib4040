@@ -6,11 +6,20 @@ I've worked on SaaS platforms, marketplaces, recruitment systems, AI products, a
 
 More recently, I've been working with AI-powered products and automation, and exploring how AI is changing the way software is built.
 
+
 ### 👨‍💻 Tech Stack
 - **Core:** TypeScript · JavaScript · React · Next.js · Node.js · NestJS
 - **Backend & Data:** Express.js · GraphQL · PostgreSQL · MongoDB · Redis
 - **AI & Automation:** OpenAI · Claude · n8n · Make.com
 - **Infrastructure:** Docker · Azure · Git · GitHub
+  
+
+### 🚀 Building
+
+Resumily — AI-powered resume & career platform
+
+🌐 Web · 🤖 Android · 🖥️ Desktop <br/>
+Web: Live · Android: Awaiting approval · Desktop: In development
 
 <!-- ### 🔨 Things I've Built
 
@@ -18,9 +27,10 @@ More recently, I've been working with AI-powered products and automation, and ex
 - [Project Name 2](https://example.com) - Brief description
 - [Project Name 3](https://example.com) - Brief description -->
 
-### �📫 Contact Me
+### 📫 Contact Me
 
 - Email: ssakib4040@gmail.com
-- Website: [https://ssakib4040.vercel.app/](https://ssakib4040.vercel.app/)
-- LinkedIn: https://www.linkedin.com/in/ssakib4040/
-- CV (Curriculum Vitae): https://canva.link/9hn5j7x84vjn90t
+- Website: https://ssakib.me
+- LinkedIn: https://www.linkedin.com/in/ssakib4040
+- Twitter/X: https://x.com/ssakib4040
+- CV: https://canva.link/9hn5j7x84vjn90t
