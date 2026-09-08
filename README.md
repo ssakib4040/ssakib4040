@@ -1,16 +1,16 @@
 ## 👋 Hello, World!
 
-I'm Sadman Sakib, a web developer with a passion for crafting beautiful, user-friendly websites. I specialize in front-end technologies such as HTML, CSS, and JavaScript, as well as popular frameworks like Bootstrap and Tailwind for creating responsive, engaging user interfaces. In addition, I'm proficient in back-end development with Node.js, Express.js, and a range of databases.
+I'm a Software Developer with 3.5+ years of professional experience, specializing in web application development and full-stack JavaScript/TypeScript.
 
-As a lifelong learner, I'm always striving to keep up with the latest web development trends and integrate them into my work to create cutting-edge websites that leave a lasting impression. When I'm not coding, you can find me exploring new hobbies and expanding my skill set.
+I've worked on SaaS platforms, marketplaces, recruitment systems, AI products, automation workflows, dashboards, and other production applications working across frontend, backend, APIs, databases, and deployment.
+
+More recently, I've been working with AI-powered products and automation, and exploring how AI is changing the way software is built.
 
 ### 👨‍💻 Tech Stack
-
-- **Front end**: HTML, CSS, JavaScript, TypeScript, Bootstrap, TailwindCSS, React JS, Redux, MobX, Next JS.
-- **Tools & Technologies**: Git (VCS), Github, Visual Studio Code, Chrome Dev Tools, NPM, Yarn, RESTful APIs, JSON, JWT, Parcel JS, Docusaurus, Cypress, Mocha, Postman, Netlify, Vercel.
-- **Back end**: Node.js, Express.js, GraphQL, Python(Basic), Azure.
-
-- **Databases**: MongoDB, Mongoose(ODM), MySQL(Basic), Firebase.
+- **Core:** TypeScript · JavaScript · React · Next.js · Node.js · NestJS
+- **Backend & Data:** Express.js · GraphQL · PostgreSQL · MongoDB · Redis
+- **AI & Automation:** OpenAI · Claude · n8n · Make.com
+- **Infrastructure:** Docker · Azure · Git · GitHub
 
 <!-- ### 🔨 Things I've Built
 
