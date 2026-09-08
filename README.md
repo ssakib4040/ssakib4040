@@ -23,4 +23,4 @@ More recently, I've been working with AI-powered products and automation, and ex
 - Email: ssakib4040@gmail.com
 - Website: [https://ssakib4040.vercel.app/](https://ssakib4040.vercel.app/)
 - LinkedIn: https://www.linkedin.com/in/ssakib4040/
-- CV (Curriculum Vitae): [https://drive.google.com/file/d/1KJ0W2y--tv3nVN-FniCbVxXewbwKthnw/view?usp=drive_link](https://drive.google.com/file/d/1KJ0W2y--tv3nVN-FniCbVxXewbwKthnw/view?usp=drive_link)
+- CV (Curriculum Vitae): https://canva.link/9hn5j7x84vjn90t
