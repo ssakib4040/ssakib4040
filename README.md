@@ -16,7 +16,7 @@ More recently, I've been working with AI-powered products and automation, and ex
 
 ### 🚀 Building
 
-Resumily — AI-powered resume & career platform
+Resumely — AI-powered resume & career platform
 
 🌐 Web · 🤖 Android · 🖥️ Desktop <br/>
 Web: [Live](https://resumely.live/) · Android: Awaiting approval · Desktop: In development
