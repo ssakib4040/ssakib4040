@@ -21,6 +21,13 @@ Resumily — AI-powered resume & career platform
 🌐 Web · 🤖 Android · 🖥️ Desktop <br/>
 Web: Live · Android: Awaiting approval · Desktop: In development
 
+<br/>
+
+Autorithm — Templates for n8n and make.com
+
+🌐 Web · 🤖 Android · 🖥️ Desktop <br/>
+Web: Live · Android: Live · Desktop: In development
+
 <!-- ### 🔨 Things I've Built
 
 - [Project Name 1](https://example.com) - Brief description
