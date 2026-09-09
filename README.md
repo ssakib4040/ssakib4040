@@ -19,14 +19,14 @@ More recently, I've been working with AI-powered products and automation, and ex
 Resumily — AI-powered resume & career platform
 
 🌐 Web · 🤖 Android · 🖥️ Desktop <br/>
-Web: Live · Android: Awaiting approval · Desktop: In development
+Web: [Live](https://resumely.live/) · Android: Awaiting approval · Desktop: In development
 
 <br/>
 
 Autorithm — Templates for n8n and make.com
 
 🌐 Web · 🤖 Android · 🖥️ Desktop <br/>
-Web: Live · Android: Live · Desktop: In development
+Web: [Live](https://www.autorithm.net/) · Android: [Live](https://play.google.com/store/apps/details?id=com.ssakib4040.autorithm) · Desktop: In development
 
 <!-- ### 🔨 Things I've Built
 
